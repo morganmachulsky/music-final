@@ -5,7 +5,7 @@ This is my final project for my social statistics course where I completed an an
 To utilize the script, open the "STA215-machulsky.R" file that contains my code for the findings, and the "final.csv" file that contains my dataset
 
 # Data
-The data collected was songs from 1990-2023 that peaked at number one for most weeks. I gathered data by analyzing the streams of the songs from popular music streaming services, such as spotify. I took note of the length of each song and converted it into seconds, as well as, the tempo of thr song using beats per minute (BPM). I also catergorized each song into possible genres, such as rap, pop, and hip hop. 
+The data collected was 120 songs from 1990-2023 that peaked at number one for most weeks. Using a purposeful sample, I gathered data by analyzing the streams of the songs from popular music streaming services, such as spotify. I took note of the length of each song and converted it into seconds, as well as the tempo of the song using beats per minute (BPM). I also categorized each song into possible genres, such as rap, pop, and hip hop.
 
 # Operalization
 The concept of streams was operationalized through a quantitative variable counting the total number of times a song has been streamed on Spotify.
